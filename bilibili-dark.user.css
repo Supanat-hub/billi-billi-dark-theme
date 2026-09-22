@@ -1,3 +1,16 @@
+/* ==UserStyle==
+@name           Bilibili Dark Theme
+@namespace      github.com/Supanat-hub/billi-billi-dark-theme
+@version        1.0.0
+@description    Clean and modern dark theme for Bilibili TV (bilibili.tv)
+@author         Supanat-hub
+@homepageURL    https://github.com/Supanat-hub/billi-billi-dark-theme
+@supportURL     https://github.com/Supanat-hub/billi-billi-dark-theme/issues
+@updateURL      https://raw.githubusercontent.com/Supanat-hub/billi-billi-dark-theme/main/bilibili-dark.user.css
+@license        MIT
+==/UserStyle== */
+
+@-moz-document domain("bilibili.tv"), domain("bilibili.com") {
 /* Mainpage*/
 /*color: var(--text-light) !important; white gray*/
 /*color: var(--text-gray) !important; gray*/
@@ -1736,3 +1749,4 @@ ul.product-list > li .star-num {
 
 /* end studio.bilibili.tv/notification*/
 /* --------------------------------------- END STUDIO -------------------------------------------------------------------------------------------------------------------------------*/
+}
